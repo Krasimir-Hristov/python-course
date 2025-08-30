@@ -1,0 +1,1 @@
+print(f"Hello, {input("What is your name?")} from {input("Where are you from?")}! Nice to meet you.")
