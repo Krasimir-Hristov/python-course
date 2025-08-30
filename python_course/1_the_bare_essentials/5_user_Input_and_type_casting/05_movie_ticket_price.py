@@ -1,1 +1,3 @@
-print(f"For age {int(input("Please enter your age:"))}, the ticket price is {float(15)}")
+age = int(input("Please enter your age: "))
+price = 15.0
+print(f"For age {age}, the ticket price is {price}")
