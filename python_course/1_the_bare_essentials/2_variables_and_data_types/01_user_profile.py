@@ -1,6 +1,6 @@
 name = "Krasimir"
-age = 30
-city = "Varna"
+age = 38
+city = "Burgas"
 
 
 print(f"Name: {name}")
