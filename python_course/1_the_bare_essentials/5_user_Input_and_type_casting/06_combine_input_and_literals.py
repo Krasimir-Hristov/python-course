@@ -1,0 +1,1 @@
+print(f"{input("What is your favorite programming language?")} is a great choice for a programming language.")
