@@ -3,6 +3,7 @@
 This repository contains a comprehensive Python programming course covering:
 
 1. The Bare Essentials
+
    - Introduction to Python
    - Variables and Data Types
    - Basic Operators
@@ -10,6 +11,7 @@ This repository contains a comprehensive Python programming course covering:
    - User Input and Type Casting
 
 2. Control Flow and Data Structures
+
    - Conditional Statements
    - For Loops
    - While Loops
@@ -19,6 +21,7 @@ This repository contains a comprehensive Python programming course covering:
    - Sets
 
 3. Functions and Modularity
+
    - Defining and Calling Functions
    - Variable Scope
    - Advanced Function Arguments
@@ -26,6 +29,7 @@ This repository contains a comprehensive Python programming course covering:
    - Modules and Packages
 
 4. Object-Oriented Programming (OOP)
+
    - Classes and Objects
    - Attributes and Methods
    - Inheritance
