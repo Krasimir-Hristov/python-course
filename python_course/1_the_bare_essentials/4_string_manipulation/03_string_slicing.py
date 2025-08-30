@@ -1,3 +1,3 @@
 sentence = "Python is a powerful language"
 
-print(sentence[11:20])
+print(sentence[12:20])
