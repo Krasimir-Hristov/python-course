@@ -1,1 +1,3 @@
-print(f"Hello, {input("What is your name?")} from {input("Where are you from?")}! Nice to meet you.")
+user_name = input("What is your name? ")
+user_city = input("Where are you from? ")
+print(f"Hello, {user_name} from {user_city}! Nice to meet you.")
