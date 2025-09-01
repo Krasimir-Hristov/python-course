@@ -4,4 +4,5 @@ start = 1
 stop = 11
 
 for number in range(start, stop):
-  print(f"{user_number} x {number} = {user_number * number}")
+  sum = user_number * number
+  print(f"{user_number} x {number} = {sum}")
