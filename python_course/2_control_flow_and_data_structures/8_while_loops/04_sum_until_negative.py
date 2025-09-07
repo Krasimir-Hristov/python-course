@@ -1,6 +1,6 @@
 
 
-sum_off_all_number = 0
+sum_off_all_numbers = 0
 
 while True:
   user_input = int(input("Enter a positive number (or a negative to exit):").strip())
