@@ -8,6 +8,7 @@ while word:
     continue
 
   else:
+    word = False
     break
 
 print("Goodbye!")
