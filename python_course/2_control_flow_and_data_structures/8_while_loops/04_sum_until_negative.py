@@ -10,7 +10,6 @@ while True:
 
   else:
     sum_off_all_number += user_input
-    continue
 
 
 print(f"The sum of all positive numbers is: {sum_off_all_number}")
