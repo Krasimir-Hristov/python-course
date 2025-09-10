@@ -4,12 +4,8 @@ capitals = {
   "France" : "Paris"
 }
 
-
-country_and_capital = capitals.items()
-
-for item in country_and_capital:
- 
-   print(f"The capital of {item[0]} is {item[1]}")
-
-
-# Ima li nachin da stane tazi zadacha sus destruction kakto ima vuv JavaScript? Molq otgovori sled kato proverish testa, i mi kaji kak bi stanalo   
+# Вместо една променлива 'item', дефинираме две: 'country' и 'capital'
+for country, capital in capitals.items():
+   # Python автоматично ще присвои първия елемент от кортежа на 'country',
+   # а втория - на 'capital' при всяка итерация.
+   print(f"The capital of {country} is {capital}")
